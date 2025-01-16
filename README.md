@@ -12,6 +12,13 @@ Basit bir **Java tabanlı konsol uygulaması**. Bu proje, öğrencilerin notlar�
 1. Projeyi klonlayın:
    ```bash
    git clone https://github.com/mmertmeric/SchoolTrackingSystem.git
+   Java’nın kurulu olduğundan emin olun. (Java 8 veya üstü)
+   Komut satırında aşağıdaki komutları çalıştırarak uygulamayı başlatın:
+
+   javac Main.java
+   java Main
+
+   
 
 Çalıştırdığınızda aşağıdaki menü ile karşılaşırsınız:
 
